@@ -1,0 +1,40 @@
+.ToGoLogo {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.togo {
+	background-color: white;
+}
+#Apply-Now {
+    background-color: #D0D3D4;
+}
+p {
+	text-align: center;
+	background-color: #b3b3b3;
+	border-radius: 8px;
+	font-size: 20px;
+}
+#Apply-Now h2 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+h3 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+h4 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+footer {
+	background-color: #4d4d4d;
+}
+.footerfont {
+	color: white;
+	background-color: #4d4d4d;
+	font-family: "Trebuchet MS";
+}
+iframe {
+	align-self: center;
+}
